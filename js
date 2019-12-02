@@ -1,3 +1,3 @@
-var years = prompt('enter cod', @@);
+var code = prompt('enter symbol', @@);
 
-alert('qweqwe ' + years + ' qweqwe3!')
+alert('qweqwe ' + code + ' qweqwe3!')
